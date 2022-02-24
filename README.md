@@ -54,6 +54,7 @@ _
        <img alt="HTML" src="https://img.shields.io/badge/-Page Object Model-blue?logo=&logo-color=white"/>
    &emsp;
 </p>
+
 ### Frontend
 <p align="left">
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-blue?logo=html5&logo-color=white"/></a>
